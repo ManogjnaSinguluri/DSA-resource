@@ -3,6 +3,6 @@
 >>This is very useful for begginers in dsa
 >>Enhancements and issues are always welcome
 
-#Instrutions for contributer 
+Instrutions for contributer :
 >>Please make a clear pull requests
 >>if any queries, feel free to post it in the discuss session of the pull request
