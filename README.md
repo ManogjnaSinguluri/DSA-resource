@@ -4,5 +4,5 @@
 >>Enhancements and issues are always welcome
 
 Instrutions for contributer :
->>Please make a clear pull requests
->>if any queries, feel free to post it in the discuss session of the pull request
+1.Please make a clear pull requests
+2.if any queries, feel free to post it in the discuss session of the pull request
